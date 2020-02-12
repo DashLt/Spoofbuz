@@ -1,1 +1,1 @@
-from spoofbuz import Spoofer
+from .spoofbuz import Spoofer
