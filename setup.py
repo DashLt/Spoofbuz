@@ -6,4 +6,6 @@ setup(
    description='A library for spoofing the Qobuz web player',
    author='DashLt',
    packages=['spoofbuz'],
+   classifiers=['Programming Language :: Python :: 3',
+   ]
 )
